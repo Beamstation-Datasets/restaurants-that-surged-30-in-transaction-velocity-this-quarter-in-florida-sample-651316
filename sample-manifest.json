@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5cb44d97-281a-4281-ba51-110b0667d4a3",
+  "export_job_id": "745d1839-d98d-4acc-a892-1dbad1102c58",
   "id_short": 651316,
-  "published_at": "2026-04-24T07:02:27Z",
+  "published_at": "2026-05-01T19:07:30Z",
   "repo_name": "restaurants-that-surged-30-in-transaction-velocity-this-quarter-in-florida-sample-651316",
   "sample_asset_name": "beamstation_651316_food_and_drink-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/651316/beamstation_651316_food_and_drink-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 39,
-  "sample_sha256": "c85df9e3b0667a527a32c382600c31f89c5df9361566b9d3fbe9ddba82282a24",
-  "sample_size_bytes": 168029,
-  "total_records": 396
+  "sample_records": 61,
+  "sample_sha256": "458f650e5f0f4a44257c22534934c51986df2aeb6bedfc27d716ca7ff542d94c",
+  "sample_size_bytes": 244183,
+  "total_records": 616
 }
